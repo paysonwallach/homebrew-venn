@@ -3,8 +3,8 @@ class Venn < Formula
 
   desc "Mix and match virtual environments"
   homepage "https://github.com/paysonwallach/venn"
-  url "https://github.com/paysonwallach/venn/releases/download/0.3.0/venn-0.3.0.tar.gz"
-  sha256 "36422960838fc721efc6f04fc3f956e4711f4baff55567882048f8ca01a4b1a4"
+  url "https://github.com/paysonwallach/venn/releases/download/0.4.0/venn-0.4.0.tar.gz"
+  sha256 "14ba6c6582933883ec87face2c88899421206ce593760f540cd2a84af94f2b51"
   head "https://github.com/paysonwallach/venn.git"
 
   depends_on "python"
